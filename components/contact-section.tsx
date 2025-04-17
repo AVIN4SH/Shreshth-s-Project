@@ -116,9 +116,9 @@ export function ContactSection() {
                       <div>
                         <h3 className="text-xl font-medium">Visit Us</h3>
                         <p className="text-white/80">
-                          123 Digital Avenue, Tech Park
+                          123 Vijay Nagar,
                           <br />
-                          Bangalore, Karnataka 560001
+                          Indore, Madhya Pradesh
                         </p>
                       </div>
                     </div>
